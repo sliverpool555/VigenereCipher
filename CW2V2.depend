@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1556484028 source:c:\users\sam\documents\y1portelectroniceng\introduction to algorithms and programming (eng421)\coursework2\cw2v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1556486096 source:e:\y1portelectroniceng\introduction to algorithms and programming (eng421)\coursework2\cw2v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1556552398 source:d:\y1portelectroniceng\introduction to algorithms and programming (eng421)\coursework2\cw2v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
